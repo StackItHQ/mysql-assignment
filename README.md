@@ -26,7 +26,7 @@ Many businesses use Google Sheets for collaborative data management and database
 - Optimize for scalability and efficiency.
 
 ## Submission ⏰
-The timeline for this submission is: **Next 4 days**
+The timeline for this submission is: **Next 2 days**
 
 Some things you might want to take care of:
 - Make use of git and commit your steps!
